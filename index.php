@@ -1,0 +1,8 @@
+<?php   
+
+
+
+include("page.php");
+
+
+?>

@@ -1,0 +1,39 @@
+#container{
+    width: 30%;
+    height: 500px;
+    margin: 10% auto;
+    background-color: aqua;
+    /* padding: 20px; */
+    border-radius: 10px;
+
+}
+.username{
+    margin-left: 20px;
+    font-size: 30px;
+
+}
+input{
+    width: 84%;
+    height: 30px;
+}
+::placeholder{
+    font-size: 20px;
+}
+button{
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+    border-radius: 0px 0px 10px 10px;
+    border: none;
+    text-align: center;
+    background-color: #fff720;
+    margin-left: 20%;
+}
+.login_form{
+    width: 100%;
+    background-color: #fff720;
+    margin-top: 0px;
+    padding-top: 10px;
+    align-items: center;
+    text-align: center;
+}
